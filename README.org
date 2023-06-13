@@ -1,0 +1,10 @@
+* mtlisp
+
+Assorted Lisp utilities developed and curated by Mike Travers (
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mtravers/mtlisp.git   |
+| commit  | 950b4d0  |
+| systems | mtlisp |
+|---------+-------------------------------------------|
+
